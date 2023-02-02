@@ -1,11 +1,10 @@
 import React from 'react';
-import Button from './components/button';
+import Formulario from './components/formulario'
 
 function App() {
   return (
     <div className="App">
-      Hellor world
-      <Button />
+      <Formulario />
     </div>
   );
 }
